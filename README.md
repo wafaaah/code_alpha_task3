@@ -29,6 +29,10 @@ The project compares both implementations and uses automated unit testing to ver
 - **SQL** — Database queries.
 - **Python `unittest`** — Automated security testing.
 - **Visual Studio Code** — Development environment.
+  
+ A Video Describing about the project.
+- https://youtu.be/navFkUS0RLg
+
 
 ### 📂 Project Structure
 
